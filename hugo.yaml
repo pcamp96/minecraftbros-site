@@ -5,6 +5,10 @@ theme: ["PaperMod"]
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
     - identifier: rules
       name: Rules
       url: /rules/
