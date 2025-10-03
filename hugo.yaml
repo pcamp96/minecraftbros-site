@@ -1,6 +1,7 @@
 baseURL: https://pcamp96.github.io/minecraftbros-site/
 languageCode: en-us
-title: My New Hugo Site
+title: Minecraft Bros
+description: A community Minecraft server focused on fun, creativity, and friendship.
 theme: ["PaperMod"]
 
 menu:
