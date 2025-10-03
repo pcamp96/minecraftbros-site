@@ -2,3 +2,18 @@ baseURL: https://pcamp96.github.io/minecraftbros-site/
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: rules
+      name: Rules
+      url: /rules/
+      weight: 10
+    - identifier: mods
+      name: Mods
+      url: /mods/
+      weight: 20
+    - identifier: gallery
+      name: Gallery
+      url: /gallery/
+      weight: 30
