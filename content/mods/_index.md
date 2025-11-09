@@ -9,8 +9,8 @@ Our server uses the **Beyond the Horizon** modpack for Minecraft.
 1. Download and install [CurseForge](https://www.curseforge.com/) or your favorite mod launcher.  
 2. Search for **Beyond the Horizon** and install the latest version.  
 3. Make sure you're using **Forge** or the included modloader version.  
-5. Install [**Create Mixed Stone**](https://www.curseforge.com/minecraft/mc-mods/create-mixed-stone). This mod allows us to build a custom cobble generator by mixing water and lava together.
-6. Install [**Create Sifting**](https://www.curseforge.com/minecraft/mc-mods/create-sifting/). This mod allows us to sift gravel and other siftable materials to gain new materials, making farming certain blocks easier.
+5. Install [Create Mixed Stone](https://www.curseforge.com/minecraft/mc-mods/create-mixed-stone). This mod allows us to build a custom cobble generator by mixing water and lava together.
+6. Install [Create Sifting](https://www.curseforge.com/minecraft/mc-mods/create-sifting/). This mod allows us to sift gravel and other siftable materials to gain new materials, making farming certain blocks easier.
 7. Launch the pack and add our server IP.
 
 ### ✨ Notable Mods
