@@ -11,7 +11,8 @@ Our server uses the **Beyond the Horizon** modpack for Minecraft.
 3. Make sure you're using **Forge** or the included modloader version.  
 5. Install [Create Mixed Stone](https://www.curseforge.com/minecraft/mc-mods/create-mixed-stone). This mod allows us to build a custom cobble generator by mixing water and lava together.
 6. Install [Create Sifting](https://www.curseforge.com/minecraft/mc-mods/create-sifting/). This mod allows us to sift gravel and other siftable materials to gain new materials, making farming certain blocks easier.
-7. Launch the pack and add our server URL (Message Patrick in Discord if you need the server URL).
+7. Install [Create: Liquid Fuel](https://www.curseforge.com/minecraft/mc-mods/create-liquid-fuel). This mod allows for feeding lava directly into Blaze Burners.
+8. Launch the pack and add our server URL (Message Patrick in Discord if you need the server URL).
 
 ### ✨ Notable Mods
 Here are a few highlights:
